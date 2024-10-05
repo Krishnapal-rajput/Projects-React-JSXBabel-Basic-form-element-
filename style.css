@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  background-color: #909090;
+  color: #090909;
+  font-family: cursive;
+}
+button {
+  margin-left: 24px;
+  height: 32px;
+  width: 108px;
+  background-color: #1e1e1e;
+  border: none;
+  border-radius: 8px;
+  color: #f99;
+  /* font-weight: bold; */
+  font-family: cursive;
+}
